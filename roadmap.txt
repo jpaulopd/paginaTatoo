@@ -1,0 +1,28 @@
+ROADMAP
+
+1) PROTOTIPO
+-desenhar tela para cada dispositivo.
+-definir componentes:
+                    header, 
+                    imagens, 
+                    produtos, 
+                    banner, 
+                    logo, 
+                    videos, 
+                    redes social, 
+                    divisão conteúdo, 
+                    conteúdo,
+                    links barra navegação
+-definir cores, fontes, tamanhos.
+-definir quantidade de telas e transição.
+
+2) DESENVOVLIMENTO
+-organizar componentes.
+-implementar fluxo de dados.
+-implementar cada componente.
+
+
+CRONOGRAMA
+A) FINALIZAR PROTOTIPO - 01/12
+B) DESENVOLVER - 03/12
+C) REVISAO - 04/12
