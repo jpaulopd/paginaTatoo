@@ -26,3 +26,25 @@ CRONOGRAMA
 A) FINALIZAR PROTOTIPO - 01/12
 B) DESENVOLVER - 03/12
 C) REVISAO - 04/12
+
+Mudei (Isa)
+Linhas:
+73 (texto sobre a empresa);
+77 (apaguei imagem ipad)
+89 (substitui com incorporação google maps do ifb)
+93 (Título conheça nossa loja)
+94 (descrição de como encontrar)
+102 (Coloquei um carrossel, com imagens de tatuagens - link: https://getbootstrap.com/docs/4.0/components/carousel/)
+108 (Título produtos)
+109 (descrição dos produtos)
+120 (incorporação de video de aplicação)
+126 (Título aplicação)
+127 (descrição sobre a aplicação)
+145 (mudança textual)
+149 (mudança textual)
+168 (mudança textual)
+170 (mudança textual)
+179 (mudança textual)
+182 (mudança textual)
+192 (mudança textual)
+194 (mudança textual)
