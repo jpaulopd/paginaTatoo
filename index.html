@@ -41,7 +41,7 @@
             <a class="nav-link js-scroll-trigger" href="#about">Sobre</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="#projects">Serviços</a>
+            <a class="nav-link js-scroll-trigger" href="#projects">Produtos</a>
 		  </li>
 		  <li class="nav-item">
           <li class="nav-item">
@@ -89,21 +89,6 @@
   <!-- Projects Section -->
   <section id="projects" class="projects-section bg-light">
     <div class="container">
-
-      <!-- Featured Project Row -->
-      <div class="row align-items-center no-gutters mb-4 mb-lg-5">
-        <div class="col-xl-8 col-lg-7">
-          <div class="map-responsive">
-            <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15359.790569197998!2d-47.8793589!3d-15.7539088!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x3060d8a3139ab079!2sInstituto%20Federal%20de%20Bras%C3%ADlia!5e0!3m2!1spt-BR!2sbr!4v1575286386076!5m2!1spt-BR!2sbr" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
-          </div>
-        </div>  
-        <div class="col-xl-4 col-lg-5">
-          <div class="featured-text text-center text-lg-lef t">
-            <h4>Conheça a nossa loja!</h4>
-            <p class="text-black-50 mb-0"> Possuimos descontos e promoções especiais para nossos clientes</p>
-          </div>
-        </div>
-      </div>
 
       <!-- Project One Row -->
       <div class="row justify-content-center no-gutters mb-5 mb-lg-0">
@@ -165,6 +150,21 @@
         </div>
       </div>
 
+      <!-- Featured Project Row -->
+      <div class="row align-items-center no-gutters mb-4 mb-lg-5">
+        <div class="col-xl-8 col-lg-7">
+          <div class="map-responsive">
+            <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15359.790569197998!2d-47.8793589!3d-15.7539088!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x3060d8a3139ab079!2sInstituto%20Federal%20de%20Bras%C3%ADlia!5e0!3m2!1spt-BR!2sbr!4v1575286386076!5m2!1spt-BR!2sbr" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+          </div>
+        </div>  
+        <div class="col-xl-4 col-lg-5">
+          <div class="featured-text text-center text-lg-lef t">
+            <h4>Conheça a nossa loja!</h4>
+            <p class="text-black-50 mb-0"> Possuimos descontos e promoções especiais para nossos clientes</p>
+          </div>
+        </div>
+      </div>
+
     </div>
   </section>
 
@@ -179,9 +179,13 @@
 
           <form class="form-inline d-flex">
             <input type="email" class="form-control flex-fill mr-0 mr-sm-2 mb-3 mb-sm-0" id="inputEmail" placeholder="Insira seu email...">
-            <button type="submit" class="btn btn-primary mx-auto">Inscrever</button>
+            <button onclick="myFunction()" type="submit" class="btn btn-primary mx-auto">Inscrever</button>
           </form>
-
+          <script>
+            function myFunction() {
+              alert("Email inscrito!");
+            }
+          </script>
         </div>
       </div>
     </div>

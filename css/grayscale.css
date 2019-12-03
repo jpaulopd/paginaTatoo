@@ -173,6 +173,7 @@
 
 .map-responsive{
   overflow:hidden;
+  margin-top:4rem;
   padding-bottom:56.25%;
   position:relative;
   height:0;
@@ -186,7 +187,7 @@
 }
 
 .projects-section {
-  padding: 10rem 0;
+  padding: 3rem 0;
 }
 
 .projects-section .featured-text {
